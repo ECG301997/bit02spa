@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "name":"VASO DC",
+        "price":29900,
+        "img": "/images/dc/vaso_dc.jpg",
+        "stock":10,
+        "quanty":1
+    },
+    {
+        "id":2,
+        "name":"CAMISA MARVEL",
+        "price":79900,
+        "img": "images/marvel/camisa_marvel.jpg",
+        "stock":2,
+        "quanty":1
+        
+    },
+    {
+        "id":3,
+        "name":"VASO_MARVEL",
+        "price":29900,
+        "img": "images/marvel/vaso_marvel.jpg",
+        "stock":15,
+        "quanty":1
+    },
+    {
+        "id":4,
+        "name":"CAMIBUSO MARVEL-DC",
+        "price":129900,
+        "img": "images/mix/camibuso_marvel_dc.jpg",
+        "stock":0,
+        "quanty":1
+    },
+    {
+        "id":5,
+        "name":"CAMISA NIÑO MARVEL-DC",
+        "price":59900,
+        "img": "images/mix/camisa_niño_marvel_dc.jpg",
+        "stock": 12,
+        "quanty":1
+    },
+    {
+        "id":6,
+        "name":"VASO DC-MARVEL",
+        "price":59900,
+        "img": "images/mix/vaso_dc_marvel.jpg",
+        "stock":1,
+        "quanty":1
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bit02spa/static/css/main.f82d8f18.css",
+    "main.js": "/bit02spa/static/js/main.9325d2d2.js",
+    "static/js/787.6f294f1a.chunk.js": "/bit02spa/static/js/787.6f294f1a.chunk.js",
+    "static/media/Marvel_vs_dc.jpg": "/bit02spa/static/media/Marvel_vs_dc.b7c4819d38b0ff47e754.jpg",
+    "index.html": "/bit02spa/index.html",
+    "main.f82d8f18.css.map": "/bit02spa/static/css/main.f82d8f18.css.map",
+    "main.9325d2d2.js.map": "/bit02spa/static/js/main.9325d2d2.js.map",
+    "787.6f294f1a.chunk.js.map": "/bit02spa/static/js/787.6f294f1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f82d8f18.css",
+    "static/js/main.9325d2d2.js"
+  ]
+}
