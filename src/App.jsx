@@ -17,7 +17,7 @@ class App extends Component {
       <BrowserRouter>
       <Navbar/>
         <Routes>
-          <Route path='bit02spa' element={<Home />} />
+          <Route path='/bit02spa' element={<Home />} />
           <Route path='/cart' element={<CartContent />} />
           <Route path='/create-user' element={<Register />} />
           <Route path='/list-users' element={<UserList />} />
