@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.9debd7c5.css",
-    "main.js": "/static/js/main.6ef60dba.js",
+    "main.js": "/static/js/main.ce1474de.js",
     "static/js/787.6f294f1a.chunk.js": "/static/js/787.6f294f1a.chunk.js",
     "static/media/Marvel_vs_dc.jpg": "/static/media/Marvel_vs_dc.b7c4819d38b0ff47e754.jpg",
     "index.html": "/index.html",
     "main.9debd7c5.css.map": "/static/css/main.9debd7c5.css.map",
-    "main.6ef60dba.js.map": "/static/js/main.6ef60dba.js.map",
+    "main.ce1474de.js.map": "/static/js/main.ce1474de.js.map",
     "787.6f294f1a.chunk.js.map": "/static/js/787.6f294f1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9debd7c5.css",
-    "static/js/main.6ef60dba.js"
+    "static/js/main.ce1474de.js"
   ]
 }
