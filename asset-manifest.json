@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bit02spa/static/css/main.f82d8f18.css",
-    "main.js": "/bit02spa/static/js/main.9325d2d2.js",
-    "static/js/787.6f294f1a.chunk.js": "/bit02spa/static/js/787.6f294f1a.chunk.js",
-    "static/media/Marvel_vs_dc.jpg": "/bit02spa/static/media/Marvel_vs_dc.b7c4819d38b0ff47e754.jpg",
-    "index.html": "/bit02spa/index.html",
-    "main.f82d8f18.css.map": "/bit02spa/static/css/main.f82d8f18.css.map",
-    "main.9325d2d2.js.map": "/bit02spa/static/js/main.9325d2d2.js.map",
-    "787.6f294f1a.chunk.js.map": "/bit02spa/static/js/787.6f294f1a.chunk.js.map"
+    "main.css": "/static/css/main.9debd7c5.css",
+    "main.js": "/static/js/main.51c536ce.js",
+    "static/js/787.6f294f1a.chunk.js": "/static/js/787.6f294f1a.chunk.js",
+    "static/media/Marvel_vs_dc.jpg": "/static/media/Marvel_vs_dc.b7c4819d38b0ff47e754.jpg",
+    "index.html": "/index.html",
+    "main.9debd7c5.css.map": "/static/css/main.9debd7c5.css.map",
+    "main.51c536ce.js.map": "/static/js/main.51c536ce.js.map",
+    "787.6f294f1a.chunk.js.map": "/static/js/787.6f294f1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f82d8f18.css",
-    "static/js/main.9325d2d2.js"
+    "static/css/main.9debd7c5.css",
+    "static/js/main.51c536ce.js"
   ]
 }
