@@ -18,13 +18,13 @@ class App extends Component {
       <Navbar/>
         <Routes>
           <Route path='/bit02spa' element={<Home />} />
-          <Route path='/cart' element={<CartContent />} />
-          <Route path='/create-user' element={<Register />} />
-          <Route path='/list-users' element={<UserList />} />
-          <Route path='/edit-user/:id' element={<EditUser />} />
-          <Route path='/create-product' element={<CreateProduct />} />
-          <Route path='/edit-product/:id' element={<EditProduct />} />
-          <Route path='/list-products' element={<ListProducts />} />
+          <Route path='/bit02spa/cart' element={<CartContent />} />
+          <Route path='/bit02spa/create-user' element={<Register />} />
+          <Route path='/bit02spa/list-users' element={<UserList />} />
+          <Route path='/bit02spa/edit-user/:id' element={<EditUser />} />
+          <Route path='/bit02spa/create-product' element={<CreateProduct />} />
+          <Route path='/bit02spa/edit-product/:id' element={<EditProduct />} />
+          <Route path='/bit02spa/list-products' element={<ListProducts />} />
         </Routes>
       </BrowserRouter>
     )

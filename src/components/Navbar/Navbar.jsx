@@ -9,12 +9,12 @@ const Navbar = () => {
   return (
     <div className="nav-container">
         <nav className="navbar">
-        <Link  className="navbar-text" to='/bit02spa'>Inicio</Link>
-        <Link className="navbar-text" to='/create-user'>Registrar Usuario</Link>
-        <Link className="navbar-text" to='/list-users'>Lista de Usuarios</Link>
-        <Link className="navbar-text" to='/create-product'>Crear Producto</Link>
-        <Link className="navbar-text" to='/list-products'>Lista de Productos</Link>
-        <Link className="seeCarrito" to='/cart'>🛒
+        <Link  className="navbar-text" to='/bit02spa/'>Inicio</Link>
+        <Link className="navbar-text" to='/bit02spa/create-user'>Registrar Usuario</Link>
+        <Link className="navbar-text" to='/bit02spa/list-users'>Lista de Usuarios</Link>
+        <Link className="navbar-text" to='/bit02spa/create-product'>Crear Producto</Link>
+        <Link className="navbar-text" to='/bit02spa/list-products'>Lista de Productos</Link>
+        <Link className="seeCarrito" to='/bit02spa/cart'>🛒
         {cart.length >0 ? <TotalItems/> : null}
         </Link> 
         </nav>
