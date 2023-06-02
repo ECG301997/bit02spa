@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <div className="nav-container">
         <nav className="navbar">
-        <Link  className="navbar-text" to='/'>Inicio</Link>
+        <Link  className="navbar-text" to='/bit02spa'>Inicio</Link>
         <Link className="navbar-text" to='/create-user'>Registrar Usuario</Link>
         <Link className="navbar-text" to='/list-users'>Lista de Usuarios</Link>
         <Link className="navbar-text" to='/create-product'>Crear Producto</Link>
